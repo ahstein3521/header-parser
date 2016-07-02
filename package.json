@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/adamhs3521/fcc2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/adamhs3521/fcc2#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "getos": "^2.6.2",
+    "ip": "^1.1.2",
+    "request-ip": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
